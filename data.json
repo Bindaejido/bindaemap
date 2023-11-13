@@ -94,5 +94,21 @@
     "title": "서울시 영등포구 영등포동 아파트",
     "occurrence_date": "2023-11-03",
     "source": "https://www.hankyung.com/article/2023110796181"
+  },
+  {
+    "latitude": 36.7844993,
+    "longitude": 126.4503169,
+    "area": "충남 서산시",
+    "title": "충남 서산시 다중이용시설",
+    "occurrence_date": "2023-11-10",
+    "source": "https://www.yna.co.kr/view/AKR20231110151800063?input=1195m"
+  },
+  {
+    "latitude": 36.789796,
+    "longitude": 127.0018494,
+    "area": "충남 아산시",
+    "title": "충남 아산시 주거지",
+    "occurrence_date": "2023-11-09",
+    "source": "https://www.goodmorningcc.com/news/articleView.html?idxno=299324"
   }
 ]
