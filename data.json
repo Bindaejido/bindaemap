@@ -1,0 +1,72 @@
+[
+  {
+    "latitude": 33.46785717799778,
+    "longitude": 127.08117911991023,
+    "title": "Bedbug sighting at 33.47/127.08",
+    "occurrence_date": "2023-02-02",
+    "source": "Pest control service"
+  },
+  {
+    "latitude": 35.99512087837517,
+    "longitude": 128.9672861276388,
+    "title": "Bedbug sighting at 36.00/128.97",
+    "occurrence_date": "2023-05-06",
+    "source": "Resident report"
+  },
+  {
+    "latitude": 33.49163125179322,
+    "longitude": 126.28886924913142,
+    "title": "Bedbug sighting at 33.49/126.29",
+    "occurrence_date": "2023-05-13",
+    "source": "Resident report"
+  },
+  {
+    "latitude": 33.715036985082286,
+    "longitude": 125.37577232373279,
+    "title": "Bedbug sighting at 33.72/125.38",
+    "occurrence_date": "2023-04-23",
+    "source": "Hotel management"
+  },
+  {
+    "latitude": 37.3749381965706,
+    "longitude": 126.60443071111517,
+    "title": "Bedbug sighting at 37.37/126.60",
+    "occurrence_date": "2023-10-31",
+    "source": "Resident report"
+  },
+  {
+    "latitude": 36.55003718679059,
+    "longitude": 130.21595464451835,
+    "title": "Bedbug sighting at 36.55/130.22",
+    "occurrence_date": "2023-09-27",
+    "source": "Hotel management"
+  },
+  {
+    "latitude": 33.18087691293575,
+    "longitude": 127.24874862764239,
+    "title": "Bedbug sighting at 33.18/127.25",
+    "occurrence_date": "2022-12-16",
+    "source": "Hotel management"
+  },
+  {
+    "latitude": 34.50527279110897,
+    "longitude": 129.49561503343585,
+    "title": "Bedbug sighting at 34.51/129.50",
+    "occurrence_date": "2023-10-06",
+    "source": "Resident report"
+  },
+  {
+    "latitude": 37.71362434455581,
+    "longitude": 126.95715613794674,
+    "title": "Bedbug sighting at 37.71/126.96",
+    "occurrence_date": "2023-02-22",
+    "source": "Resident report"
+  },
+  {
+    "latitude": 35.86697588323782,
+    "longitude": 126.0602280604964,
+    "title": "Bedbug sighting at 35.87/126.06",
+    "occurrence_date": "2023-03-28",
+    "source": "Pest control service"
+  }
+]
