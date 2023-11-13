@@ -1,72 +1,98 @@
 [
   {
-    "latitude": 33.46785717799778,
-    "longitude": 127.08117911991023,
-    "title": "Bedbug sighting at 33.47/127.08",
-    "occurrence_date": "2023-02-02",
-    "source": "Pest control service"
+    "latitude": 37.517236,
+    "longitude": 127.047325,
+    "area": "서울 강남구 찜질방",
+    "title": "서울 강남구 찜질방",
+    "occurrence_date": "2023-11-05",
+    "source": "https://www.ytn.co.kr/_ln/0103_202311101807180307"
   },
   {
-    "latitude": 35.99512087837517,
-    "longitude": 128.9672861276388,
-    "title": "Bedbug sighting at 36.00/128.97",
-    "occurrence_date": "2023-05-06",
-    "source": "Resident report"
+    "latitude": 35.837743761099,
+    "longitude": 128.53907297037,
+    "area": "대구 달서구",
+    "title": "대구 달서구 대학교",
+    "occurrence_date": "2023-10-19",
+    "source": "https://www.youtube.com/watch?v=p-EIkMcrIJM"
   },
   {
-    "latitude": 33.49163125179322,
-    "longitude": 126.28886924913142,
-    "title": "Bedbug sighting at 33.49/126.29",
-    "occurrence_date": "2023-05-13",
-    "source": "Resident report"
+    "latitude": 37.54204865249,
+    "longitude": 126.68020531001,
+    "area": "인천 서구 심곡동",
+    "title": "인천 서구 심곡동 사우나",
+    "occurrence_date": "2023-10-16",
+    "source": "https://www.youtube.com/watch?v=7GzPyie3yTU"
   },
   {
-    "latitude": 33.715036985082286,
-    "longitude": 125.37577232373279,
-    "title": "Bedbug sighting at 33.72/125.38",
-    "occurrence_date": "2023-04-23",
-    "source": "Hotel management"
+    "latitude": 37.3082307,
+    "longitude": 127.9294889,
+    "area": "강원 원주시 기숙사",
+    "title": "강원도 원주시 기숙사",
+    "occurrence_date": "2023-11-01",
+    "source": "https://www.kwnews.co.kr/page/view/2023110116533229253"
   },
   {
-    "latitude": 37.3749381965706,
-    "longitude": 126.60443071111517,
-    "title": "Bedbug sighting at 37.37/126.60",
+    "latitude": 37.549933253339,
+    "longitude": 126.97214172312,
+    "area": "서울 용산구 동자동",
+    "title": "서울시 용산구 동자동 고시원",
     "occurrence_date": "2023-10-31",
-    "source": "Resident report"
+    "source": "https://www.khan.co.kr/national/national-general/article/202311011603001"
   },
   {
-    "latitude": 36.55003718679059,
-    "longitude": 130.21595464451835,
-    "title": "Bedbug sighting at 36.55/130.22",
-    "occurrence_date": "2023-09-27",
-    "source": "Hotel management"
+    "latitude": 37.5547985,
+    "longitude": 126.9742104,
+    "area": "서울 중구 남대문",
+    "title": "서울시 중구 남대문 쪽방촌 고시원 ",
+    "occurrence_date": "2023-11-02",
+    "source": "https://www.shinailbo.co.kr/news/articleView.html?idxno=1781478"
   },
   {
-    "latitude": 33.18087691293575,
-    "longitude": 127.24874862764239,
-    "title": "Bedbug sighting at 33.18/127.25",
-    "occurrence_date": "2022-12-16",
-    "source": "Hotel management"
+    "latitude": 37.5313805,
+    "longitude": 126.9798839,
+    "area": "서울 용산구",
+    "title": "서울시 용산구 어린이집",
+    "occurrence_date": "2023-11-03",
+    "source": "https://news.tvchosun.com/site/data/html_dir/2023/11/03/2023110390177.html"
   },
   {
-    "latitude": 34.50527279110897,
-    "longitude": 129.49561503343585,
-    "title": "Bedbug sighting at 34.51/129.50",
-    "occurrence_date": "2023-10-06",
-    "source": "Resident report"
+    "latitude": 37.4605655,
+    "longitude": 126.9008183,
+    "area": "서울 금천구",
+    "title": "서울시  금천구 어린이집",
+    "occurrence_date": "2023-11-03",
+    "source": "https://news.tvchosun.com/site/data/html_dir/2023/11/03/2023110390177.html"
   },
   {
-    "latitude": 37.71362434455581,
-    "longitude": 126.95715613794674,
-    "title": "Bedbug sighting at 37.71/126.96",
-    "occurrence_date": "2023-02-22",
-    "source": "Resident report"
+    "latitude": 37.5593115,
+    "longitude": 126.9082589,
+    "area": "서울 마포구",
+    "title": "서울시 마포구 어린이집",
+    "occurrence_date": "2023-11-03",
+    "source": "https://news.tvchosun.com/site/data/html_dir/2023/11/03/2023110390177.html"
   },
   {
-    "latitude": 35.86697588323782,
-    "longitude": 126.0602280604964,
-    "title": "Bedbug sighting at 35.87/126.06",
-    "occurrence_date": "2023-03-28",
-    "source": "Pest control service"
+    "latitude": 37.5949159,
+    "longitude": 126.977339,
+    "area": "서울 종로구",
+    "title": "서울시 종로구 어린이집",
+    "occurrence_date": "2023-11-03",
+    "source": "https://news.tvchosun.com/site/data/html_dir/2023/11/03/2023110390177.html"
+  },
+  {
+    "latitude": 37.5601443,
+    "longitude": 126.9959649,
+    "area": "서울 중구",
+    "title": "서울시 중구 고시원",
+    "occurrence_date": "2023-11-03",
+    "source": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000375542"
+  },
+  {
+    "latitude": 37.5203655,
+    "longitude": 126.9107248,
+    "area": "서울 영등포구 영등포동",
+    "title": "서울시 영등포구 영등포동 아파트",
+    "occurrence_date": "2023-11-03",
+    "source": "https://www.hankyung.com/article/2023110796181"
   }
 ]
