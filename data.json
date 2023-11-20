@@ -150,5 +150,13 @@
     "title": "대전 서구 갈마동 가정집",
      "occurrence_date": "2023-11-10",
     "source": "https://www.ytn.co.kr/_ln/0115_202311161708243909"
+  },
+  {
+    "latitude": 35.1043965,
+    "longitude": 128.9749537,
+    "area": "부산 사하구",
+    "title": "부산 사하구 가정집",
+     "occurrence_date": "2023-11-14",
+    "source": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20231120.99099006029"
   }
 ]
