@@ -158,5 +158,21 @@
     "title": "부산 사하구 가정집",
      "occurrence_date": "2023-11-14",
     "source": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20231120.99099006029"
+  },
+  {
+    "latitude": 34.4832365,
+    "longitude": 126.2583857,
+    "area": "전남 진도군 의신면",
+    "title": "전남 진도군 의신면 외국인 숙소",
+     "occurrence_date": "2023-11-20",
+    "source": "https://m.segye.com/view/20231122515453"
+  },
+  {
+     "latitude": 35.5043913,
+    "longitude": 129.4024259,
+    "area": "울산 울주군 온산읍",
+    "title": "울산 울주군 온산읍 원룸",
+     "occurrence_date": "2023-11-21",
+    "source": "https://www.yna.co.kr/view/AKR20231121110300057"
   }
 ]
