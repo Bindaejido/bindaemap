@@ -111,20 +111,20 @@
     "occurrence_date": "2023-11-09",
     "source": "https://www.goodmorningcc.com/news/articleView.html?idxno=299324"
   },
-   {
-     "latitude": 37.2636,
-     "longitude": 127.0286,
+  {
+    "latitude": 37.2636,
+    "longitude": 127.0286,
     "area": "경기 수원시",
     "title": "경기 수원시 가정집",
-     "occurrence_date": "2023-11-13",
+    "occurrence_date": "2023-11-13",
     "source": "https://newsis.com/view/?id=NISX20231114_0002520082&cID=14001&pID=14000"
   },
-   {
-     "latitude": 37.4342,
-     "longitude": 127.1389,
+  {
+    "latitude": 37.4342,
+    "longitude": 127.1389,
     "area": "경기 성남시 수정구",
     "title": "경기 성남시 수정구 여인숙",
-     "occurrence_date": "2023-11-13",
+    "occurrence_date": "2023-11-13",
     "source": "https://newsis.com/view/?id=NISX20231114_0002520082&cID=14001&pID=14000"
   },
   {
@@ -132,7 +132,7 @@
     "longitude": 127.1139,
     "area": "충남 천안시 안서동",
     "title": "충남 천안시 안서동 대학교 기숙사",
-     "occurrence_date": "2023-11-15",
+    "occurrence_date": "2023-11-15",
     "source": "https://www.newspim.com/news/view/20231115000766"
   },
   {
@@ -140,7 +140,7 @@
     "longitude": 127.7956015,
     "area": "충북 충주시 주덕읍",
     "title": "충북 충주시 주덕읍 원룸",
-     "occurrence_date": "2023-11-14",
+    "occurrence_date": "2023-11-14",
     "source": "https://www.cctoday.co.kr/news/articleView.html?idxno=2187495"
   },
   {
@@ -148,7 +148,7 @@
     "longitude": 127.3713523,
     "area": "대전 서구 갈마동",
     "title": "대전 서구 갈마동 가정집",
-     "occurrence_date": "2023-11-10",
+    "occurrence_date": "2023-11-10",
     "source": "https://www.ytn.co.kr/_ln/0115_202311161708243909"
   },
   {
@@ -156,7 +156,7 @@
     "longitude": 128.9749537,
     "area": "부산 사하구",
     "title": "부산 사하구 가정집",
-     "occurrence_date": "2023-11-14",
+    "occurrence_date": "2023-11-14",
     "source": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20231120.99099006029"
   },
   {
@@ -164,15 +164,39 @@
     "longitude": 126.2583857,
     "area": "전남 진도군 의신면",
     "title": "전남 진도군 의신면 외국인 숙소",
-     "occurrence_date": "2023-11-20",
+    "occurrence_date": "2023-11-20",
     "source": "https://m.segye.com/view/20231122515453"
   },
   {
-     "latitude": 35.5043913,
+    "latitude": 35.5043913,
     "longitude": 129.4024259,
     "area": "울산 울주군 온산읍",
     "title": "울산 울주군 온산읍 원룸",
-     "occurrence_date": "2023-11-21",
+    "occurrence_date": "2023-11-21",
     "source": "https://www.yna.co.kr/view/AKR20231121110300057"
+  },
+  {
+    "latitude": 36.58974,
+    "longitude": 127.5052569,
+    "area": "충북 청주시 상당구",
+    "title": "충북 청주시 상당구 가정집",
+    "occurrence_date": "2023-11-23",
+    "source": "https://www.inews365.com/mobile/article.html?no=790297"
+  },
+  {
+    "latitude": 36.6289284,
+    "longitude": 127.375915,
+    "area": "충북 청주시 흥덕구",
+    "title": "충북 청주시 흥덕구 가정집",
+    "occurrence_date": "2023-11-23",
+    "source": "https://www.inews365.com/mobile/article.html?no=790297"
+  },
+  {
+    "latitude": 36.854963,
+    "longitude": 127.44125,
+    "area": "충북 진천구 진천읍",
+    "title": "충북 진천구 진천읍 숙박시설",
+    "occurrence_date": "2023-11-23",
+    "source": "https://www.inews365.com/mobile/article.html?no=790297"
   }
 ]
