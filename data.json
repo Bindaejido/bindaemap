@@ -198,5 +198,21 @@
     "title": "충북 진천구 진천읍 숙박시설",
     "occurrence_date": "2023-11-23",
     "source": "https://www.inews365.com/mobile/article.html?no=790297"
+  },
+  {
+    "latitude": 37.3515729,
+    "longitude": 127.9468045,
+    "area": "강원 원주시 ",
+    "title": "강원 원주시 기업체 외국인 기숙사",
+    "occurrence_date": "2023-11-23",
+    "source": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=7826195"
+  },
+  {
+    "latitude": 35.8715411,
+    "longitude": 128.601505,
+    "area": "대구 ",
+    "title": "대구 고등학교 기숙사",
+    "occurrence_date": "2023-11-23",
+    "source": "https://news.imaeil.com/page/view/2023112414272901940"
   }
 ]
