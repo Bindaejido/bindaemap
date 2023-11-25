@@ -214,5 +214,14 @@
     "title": "대구 고등학교 기숙사",
     "occurrence_date": "2023-11-23",
     "source": "https://news.imaeil.com/page/view/2023112414272901940"
+  },
+  {
+    "latitude": 35.884139,
+    "longitude": 128.8197742,
+    "area": "경북 경산시 진량읍",
+    "title": "경북 경산시 진량읍",
+    "occurrence_date": "2023-11-18",
+    "source": "google form",
+    "suspicious":true
   }
 ]
