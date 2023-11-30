@@ -223,5 +223,32 @@
     "occurrence_date": "2023-11-18",
     "source": "google form",
     "suspicious":true
+  },
+    {
+    "latitude": 36.6354,
+    "longitude": 127.489,
+    "area": "충북 청주시",
+    "title": "충북 청주시 가정집",
+    "occurrence_date": "2023-11-28",
+    "source": "https://mobile.newsis.com/view.html?ar_id=NISX20231128_0002538088"
+  },
+    {
+    "latitude": 36.9353,
+    "longitude": 127.6897,
+    "area": "충북 음성군",
+    "title": "충북 음성군 가정집",
+    "occurrence_date": "2023-11-28",
+    "source": "https://mobile.newsis.com/view.html?ar_id=NISX20231128_0002538088"
+  },
+    {
+    "latitude": 34.8118,
+    "longitude": 126.3922,
+    "area": "전남 목포시",
+    "title": "전남 목포시 가정집",
+    "occurrence_date": "2023-11-27",
+    "source": "https://www.yna.co.kr/view/AKR20231127132100054?input=1195m"
   }
+  
+  
+  
 ]
