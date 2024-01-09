@@ -256,7 +256,22 @@
     "occurrence_date": "2023-11-03",
     "source": "google form",
     "suspicious":true
-  }
+  },{
+    "latitude": 37.4883869,
+    "longitude": 126.613052,
+    "area": "인천 서구",
+    "title": "인천 서구 중학교",
+    "occurrence_date": "2023-11-24",
+    "source": "https://www.seoul.co.kr/news/newsView.php?id=20231124500062"
+},{
+  "latitude": 37.534855,
+    "longitude": 126.968799,
+    "area": "서울 용산구 동자동",
+    "title": "서울 용산구 서울역 인근 쪽방촌",
+    "occurrence_date": "2023-12-01",
+    "source": "https://munhwa.com/news/view.html?no=20231201010399101260012"
+}
+
   
   
   
